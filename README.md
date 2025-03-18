@@ -1,27 +1,25 @@
-# Data Type in C, C++, JAVA programming language
+# Data Type in C, C++, Java, Python, JavaScript Programming Languages
 
-> A simple program prints out the size of the data type and its range.
+> A simple program that prints out the size of the data types and their range in different programming languages.
 
-## Complie and Run a C program
+## How to Compile and Run
 
-```bash
-$ gcc -o datatype datatype.c
-$ ./datatype
-```
+| Language      | Compile Command                        | Run Command            |
+|---------------|----------------------------------------|------------------------|
+| **C**         | `gcc -o datatype datatype.c`           | `./datatype`           |
+| **C++**       | `g++ -o datatype datatype.cpp`         | `./datatype`           |
+| **Java**      | `javac DataTypes.java`                 | `java DataTypes`       |
+| **JavaScript**|                                        | `node datatypes.js`    |
+| **Python**    |                                        | `python3 datatypes.py` |
+---
 
-## Complie and Run a C++ program
+### Breakdown:
 
-```bash
-$ g++ -o datatype datatype.c
-$ ./datatype
-```
-
-## Complie and Run a Java program
-
-```bash
-$ javac DataTypes.java 
-$ java DataTypes
-```
+- **C**: `gcc` compiles the `.c` file into an executable (`datatype`), and `./datatype` runs it.
+- **C++**: `g++` compiles the `.cpp` file, and `./datatype` runs it (same as C, but for C++ source code).
+- **Java**: `javac` compiles the `.java` file into bytecode, and `java` runs the bytecode.
+- **JavaScript**: `node` runs the JavaScript file directly.
+- **Python**: `python3` runs the Python script.
 
 ## Result
 
