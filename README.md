@@ -1,4 +1,4 @@
-# Data Type in C programming language
+# Data Type in C, C++, JAVA programming language
 
 > A simple program prints out the size of the data type and its range.
 
@@ -7,6 +7,13 @@
 ```bash
 $ gcc -o datatype datatype.c
 $ ./datatype
+```
+
+## Complie and Run a Java program
+
+```bash
+$ javac DataTypes.java 
+$ java DataTypes
 ```
 
 ## Result
