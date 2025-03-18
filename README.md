@@ -9,6 +9,13 @@ $ gcc -o datatype datatype.c
 $ ./datatype
 ```
 
+## Complie and Run a C++ program
+
+```bash
+$ g++ -o datatype datatype.c
+$ ./datatype
+```
+
 ## Complie and Run a Java program
 
 ```bash
