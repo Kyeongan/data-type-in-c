@@ -58,3 +58,5 @@ Range of long double 3.362103e-4932 to 1.189731e+4932
 ```
 
 > ### 한국인들이 제 오래된 블로그에 들어와 이야기 하는걸 보고 아주 짧은 코드를 작성해서 올려 보았습니다.
+https://newmkka.tistory.com/entry/C%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8%EC%9E%90%EB%A3%8C%ED%98%95%EC%9D%98-%ED%81%AC%EA%B8%B0%EC%99%80-%EB%B0%8F-%EB%B2%94%EC%9C%84%
+
